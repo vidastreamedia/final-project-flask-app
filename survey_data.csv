@@ -1,0 +1,6 @@
+Age,Gender,TotalIncome,Utilities,Entertainment,SchoolFees,Shopping,Healthcare
+24,Male,5000.0,300.0,50.0,200.0,800.0,100.0
+23,Female,1500.0,100.0,0,0,0,0
+60,Female,3000.0,200.0,100.0,0.0,300.0,150.0
+35,Male,2000.0,200.0,100.0,150.0,100.0,50.0
+33,Male,800.0,33.0,20.0,20.0,80.0,50.0
